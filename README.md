@@ -3,26 +3,26 @@
 **Topics**
 ---
 *Caching*  
-- Redis
+- Redis  
 *Streaming Analytics/Big Data*  
-- Kafka, Spark, Flink
+- Kafka, Spark, Flink  
 *Cloud*  
-- AWS, Azure, Google
+- AWS, Azure, Google  
 *Containers*  
-- Dockers, Kubernetes
+- Dockers, Kubernetes  
 *Datastores*  
-- SQL (IBM DB2, Postgres), NoSQL (MongoDB), Data Lakes
+- SQL (IBM DB2, Postgres), NoSQL (MongoDB), Data Lakes  
 *Microservices*  
-- RESTful, GraphQL
+- RESTful, GraphQL  
 *Integration*  
-- Apache Camel
+- Apache Camel  
 *CI/CD*  
-- Jenkins
+- Jenkins  
 *Agile/Scrum*
 *Security*  
-- OAuth
+- OAuth  
 *UI*  
-- WebSockets
+- WebSockets  
 
 **Design Questions**
 - How would you design a warehouse system for Amazon.com
