@@ -3,24 +3,33 @@
 **Topics**
 ---
 *Caching*  
-- Redis  
+- Redis
+
 *Streaming Analytics/Big Data*  
 - Kafka, Spark, Flink  
+
 *Cloud*  
 - AWS, Azure, Google  
+
 *Containers*  
 - Dockers, Kubernetes  
+
 *Datastores*  
 - SQL (IBM DB2, Postgres), NoSQL (MongoDB), Data Lakes  
+
 *Microservices*  
 - RESTful, GraphQL  
+
 *Integration*  
 - Apache Camel  
+
 *CI/CD*  
 - Jenkins  
+
 *Agile/Scrum*
 *Security*  
 - OAuth  
+
 *UI*  
 - WebSockets  
 
